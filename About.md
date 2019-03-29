@@ -8,4 +8,4 @@ Dúvidas ou sugestões, entre em contato pelo [Linkedin](https://www.linkedin.co
 
 #### Versão atual
 
-1.0.0
+1.1.0
