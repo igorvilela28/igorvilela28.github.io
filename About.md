@@ -1,11 +1,14 @@
 ## SimpleLyrics
 
-SimpleLyrics tem como objetivo uma forma simples de ver as letras do que está tocando no Spotify. Deixo claro que não tenho nenhuma associação com o Spotify.
+SimpleLyrics has the goal to let you view lyrics for whatever is playing on Spotify on a simple and fast way. We highlight that we don’t have a partnership with Spotify.
 
-Desenvolvido por Igor Vilela
+Developed by Igor Vilela
 
-Dúvidas ou sugestões, entre em contato pelo [Linkedin](https://www.linkedin.com/in/igorvd/).
+For any questions or suggestions, you can reach me on [Linkedin](https://www.linkedin.com/in/igorvd/).
 
-#### Versão atual
+#### Current version
 
-1.1.0
+1.1.2
+
+- Fixed some minor things
+- Added Spanish translation
